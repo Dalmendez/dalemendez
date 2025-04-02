@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Project Title</h1>
+<p>Project description and other information.</p>
+
+<!-- Other content -->
 
 <h1>About Daleisy Mendez</h1>
 <p>My name is daleisy and I am <b>strict, kind and a capable student.</b></p>
