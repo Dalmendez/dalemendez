@@ -1,8 +1,6 @@
-<!DOCTYPE html>
+
 <html>
 <body>
-<h1>Project Title</h1>
-<p>Project description and other information.</p>
 
 <!-- Other content -->
 
