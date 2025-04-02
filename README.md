@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 <h1>About Daleisy Mendez</h1>
 <p>My name is daleisy and I am <b>strict, kind and a capable student.</b></p>
 
